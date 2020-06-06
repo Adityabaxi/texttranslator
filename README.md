@@ -6,3 +6,6 @@ To run this code on your environment:
 2) Create text.txt file of your own which contain some english sentences.
 3) Run the code on jupyter/pycharm/sublime text or any IDE of your choice.
 4) It will create a new file named as text-ja.txt with the translated version.
+
+To translate to some other languages refer codes over here:
+https://en.wikipedia.org/wiki/ISO_639-1
